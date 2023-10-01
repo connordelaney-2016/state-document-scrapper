@@ -1,0 +1,1 @@
+This contains code to strip out information from State Case Files
